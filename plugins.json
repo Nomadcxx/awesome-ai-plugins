@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-15",
-  "total": 829,
+  "total": 842,
   "platforms": [
     "codex",
     "grok",
@@ -3520,6 +3520,20 @@
       ]
     },
     {
+      "name": "PostEverywhere",
+      "url": "https://github.com/posteverywhere/codex-plugin",
+      "owner": "posteverywhere",
+      "repo": "codex-plugin",
+      "description": "Social media scheduler plugin: write, schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, X, Threads, Pinterest, Bluesky and more, plan a content calendar and see analytics, through a hosted MCP server and 15 skills ([posteverywhere.ai](https://posteverywhere.ai)).",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/posteverywhere/codex-plugin/HEAD/.codex-plugin/plugin.json",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ]
+    },
+    {
       "name": "PriceWin",
       "url": "https://github.com/PriceDotWin/pricewin-agent-plugin",
       "owner": "PriceDotWin",
@@ -4570,6 +4584,16 @@
       "installation_url": "https://github.com/lennonpetrick/android-engineering-skills#readme"
     },
     {
+      "name": "angles-video-skill",
+      "url": "https://github.com/anglesvideo/angles-video-skills",
+      "owner": "anglesvideo",
+      "repo": "angles-video-skills",
+      "description": "AI video generation skill for Claude Code supporting Veo3, Kling 3.0, Wan, and HunyuanVideo via the angles.video API",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "installation_url": "https://github.com/anglesvideo/angles-video-skills#readme"
+    },
+    {
       "name": "Antigravity Context Meter",
       "url": "https://github.com/Dunphil692/antigravity-context-meter",
       "owner": "Dunphil692",
@@ -5451,6 +5475,20 @@
       "platform": "claude-code",
       "ecosystems": [
         "claude-code"
+      ]
+    },
+    {
+      "name": "Docflow (EvolveHQ)",
+      "url": "https://github.com/EvolveHQ/docflow",
+      "owner": "EvolveHQ",
+      "repo": "docflow",
+      "description": "ADR-driven documentation workflow for Claude Code, Codex, Cursor, OpenCode, pi, and more that scaffolds an ADR catalogue, plan queue, and AGENTS.md conventions into single repos or portable multi-repo workspaces, with lifecycle skills to author, ship, and audit decisions",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/EvolveHQ/docflow/HEAD/plugins/docflow/.codex-plugin/plugin.json",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
       ]
     },
     {
@@ -6363,6 +6401,20 @@
       ]
     },
     {
+      "name": "KOZMOS",
+      "url": "https://github.com/ersinkoc/claude-mods",
+      "owner": "ersinkoc",
+      "repo": "claude-mods",
+      "description": "48 live, visual function-hook mods for Claude Code in the terminal and desktop app: animated bands above the prompt, sidebars, a status ticker, companions, guards, and sound for usage limits, context, subagents, git, and cost",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/ersinkoc/claude-mods/HEAD/mods/kozmos/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ]
+    },
+    {
       "name": "Labtasker",
       "url": "https://github.com/luocfprime/labtasker",
       "owner": "luocfprime",
@@ -7019,6 +7071,16 @@
       ]
     },
     {
+      "name": "opencode-failover",
+      "url": "https://github.com/bulutmuf/opencode-failover",
+      "owner": "bulutmuf",
+      "repo": "opencode-failover",
+      "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "installation_url": "https://github.com/bulutmuf/opencode-failover#readme"
+    },
+    {
       "name": "opencode-litellm",
       "url": "https://github.com/yuseferi/opencode-litellm",
       "owner": "yuseferi",
@@ -7467,6 +7529,20 @@
       ]
     },
     {
+      "name": "ratification-docket",
+      "url": "https://github.com/seevali/claude-skills",
+      "owner": "seevali",
+      "repo": "claude-skills",
+      "description": "Claude Code skill that gathers the Proposed decisions scattered across dense documents into one plain-language page of decision cards the owner rules on without opening a source file, then writes the rulings back into the records, trackers and ledgers",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/seevali/claude-skills/HEAD/ratification-docket/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ]
+    },
+    {
       "name": "React Native Developer Skills",
       "url": "https://github.com/Neha/rn-developer-skills",
       "owner": "Neha",
@@ -7730,6 +7806,20 @@
       "platform": "codex",
       "ecosystems": [
         "codex"
+      ]
+    },
+    {
+      "name": "Shrike",
+      "url": "https://github.com/SumantxD/shrike",
+      "owner": "SumantxD",
+      "repo": "shrike",
+      "description": "Claude Code plugin for the Shrike desktop app that shows your agent what your web app actually did on each click (the code path, real values, queries and errors), so it fixes from what ran instead of guessing; every code change waits for your approval in Shrike",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/SumantxD/shrike/HEAD/integrations/claude-code/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
       ]
     },
     {
@@ -8192,6 +8282,20 @@
       "platform": "codex",
       "ecosystems": [
         "codex"
+      ]
+    },
+    {
+      "name": "token-bar",
+      "url": "https://github.com/santosli/claude-mods",
+      "owner": "santosli",
+      "repo": "claude-mods",
+      "description": "Claude Code mod that shows context use, session and weekly quota with reset countdowns, and today's token spend in a band above the prompt, in the terminal and the desktop app",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/santosli/claude-mods/HEAD/token-bar/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
       ]
     },
     {
@@ -8725,6 +8829,20 @@
       ]
     },
     {
+      "name": "bagel",
+      "url": "https://github.com/Extelligence-ai/bagel",
+      "owner": "Extelligence-ai",
+      "repo": "bagel",
+      "description": "MCP server: Query robotics, drone, and IoT logs in natural language and build auditable data-reduction pipelines with companion agent skills",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "installation_url": "https://github.com/Extelligence-ai/bagel#readme",
+      "ecosystems": [
+        "mcp"
+      ]
+    },
+    {
       "name": "Bestax",
       "url": "https://github.com/allxsmith/bestax-skills",
       "owner": "allxsmith",
@@ -9232,6 +9350,16 @@
       "ecosystems": [
         "claude-code"
       ]
+    },
+    {
+      "name": "Genexus18MCP",
+      "url": "https://github.com/lennix1337/Genexus18MCP",
+      "owner": "lennix1337",
+      "repo": "Genexus18MCP",
+      "description": "MCP server that lets AI agents read, edit, analyze, and refactor objects in GeneXus Knowledge Bases through supported GeneXus SDKs and compatibility drivers",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "installation_url": "https://github.com/lennix1337/Genexus18MCP#readme"
     },
     {
       "name": "GitHub Issues for Claude Code",
@@ -9975,6 +10103,20 @@
       ]
     },
     {
+      "name": "pg-perf-mcp",
+      "url": "https://github.com/gouranshul/pg-perf-mcp",
+      "owner": "gouranshul",
+      "repo": "pg-perf-mcp",
+      "description": "Read-only MCP server that lets AI assistants diagnose PostgreSQL performance: slow queries, EXPLAIN plans, index advice, locks, and the queries inside database functions",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/gouranshul/pg-perf-mcp/HEAD/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ]
+    },
+    {
       "name": "phone-sms",
       "url": "https://github.com/h-3303/phone-sms",
       "owner": "h-3303",
@@ -10054,6 +10196,20 @@
       "platform": "claude-code",
       "ecosystems": [
         "claude-code"
+      ]
+    },
+    {
+      "name": "PostEverywhere",
+      "url": "https://github.com/posteverywhere/claude-plugin",
+      "owner": "posteverywhere",
+      "repo": "claude-plugin",
+      "description": "Social media scheduler plugin: write, schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, X, Threads, Pinterest, Bluesky and more, plan a content calendar and see analytics, through a hosted MCP server and 15 skills ([posteverywhere.ai](https://posteverywhere.ai))",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/posteverywhere/claude-plugin/HEAD/.codex-plugin/plugin.json",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
       ]
     },
     {
@@ -10905,6 +11061,20 @@
       "platform": "deepseek-harness",
       "ecosystems": [
         "deepseek-harness"
+      ]
+    },
+    {
+      "name": "opencode-cursor",
+      "url": "https://github.com/Nomadcxx/opencode-cursor",
+      "owner": "Nomadcxx",
+      "repo": "opencode-cursor",
+      "description": "OpenCode plugin for Cursor subscription models with streaming, thinking, tool calls, MCP support, and browser login through Cursor CLI or API-key authentication through the SDK",
+      "category": "OpenCode Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "opencode",
+      "installation_url": "https://github.com/Nomadcxx/opencode-cursor#readme",
+      "ecosystems": [
+        "opencode"
       ]
     },
     {
